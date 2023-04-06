@@ -1,4 +1,5 @@
-### Hi there 👋
+<div align = "center">
+              <h1>Hello <img src="https://i.pinimg.com/originals/db/8f/09/db8f099cdc0bc30255570bef6fd4030d.gif" alt="Girl in a jacket" width="60" height="60"> it's Yao</h1></div>
 
 <!--
 **yaosterg/yaosterg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
