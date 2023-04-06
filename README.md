@@ -23,10 +23,23 @@
            <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
             <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
              <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra&logoColor=white"/>
+              <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
                <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+               
+ <h4>In Progress...:</h4>
+        <hr class="rounded">
+                  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+              <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+               <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+                 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
+                 
+  <h4></h4>
+        <hr class="rounded">
 
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaosterg&show_icons=true&theme=nord)
+
 
 
         
